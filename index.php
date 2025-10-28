@@ -18,14 +18,11 @@
 </head>
 <body>
     <div class="container">
-        <h1>Rader Free Server - CI/CD Pipeline</h1>
+        <h1>Rander Free Server - CI/CD Pipeline</h1>
         <div class="developer">
             <p><strong>Developed by:</strong> Vijay</p>
             <p>This CI/CD pipeline is hosted on Render, a free cloud service for deploying web applications.</p>
         </div>
-        
-        <h2>CI/CD Pipeline Information  </h2>
-        <p>This application is deployed using a Continuous Integration/Continuous Deployment (CI/CD) pipeline on Render:</p>
     </div>
 </body>
 </html>
