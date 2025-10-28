@@ -18,7 +18,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Rander Free Server - CI/CD Pipeline</h1>
+        <h1>Render Free Server - CI/CD Pipeline</h1>
         <div class="developer">
             <p><strong>Developed by:</strong> Vijay</p>
             <p>This CI/CD pipeline is hosted on Render, a free cloud service for deploying web applications.</p>
